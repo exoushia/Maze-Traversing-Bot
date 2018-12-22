@@ -62,7 +62,7 @@ Then we make a graph with these corners as vertices and make edges between verti
 
 Finally, we apply Dijkstra's algorithm on this graph (using the start and destination coordinates stored in the beginning) and get the shortest path.
 <h1 align="center">
-	<img width="400" src="Final.png">
+	<img width="400" src="final_pxl.png">
 	<br>
 	<br>
 </h1>
